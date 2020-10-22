@@ -10,7 +10,6 @@
     "watch": "parcel watch src/index.html"
   },
   "dependencies": {
-    "pages": "^0.0.16",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-router-dom": "^5.2.0",
