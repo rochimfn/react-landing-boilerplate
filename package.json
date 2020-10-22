@@ -1,0 +1,26 @@
+{
+  "name": "react-landing-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate untuk landing page dengan kombinasi react, react router, parcel, tailwindcss, dan purgecss",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "watch": "parcel watch src/index.html"
+  },
+  "dependencies": {
+    "pages": "^0.0.16",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-router-dom": "^5.2.0",
+    "tailwindcss": "^1.9.5"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.1",
+    "@babel/preset-react": "^7.12.1",
+    "autoprefixer": "^9.8.6",
+    "parcel-bundler": "^1.12.4",
+    "postcss-import": "12.0.1"
+  }
+}
